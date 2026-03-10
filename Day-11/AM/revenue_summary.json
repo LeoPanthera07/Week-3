@@ -1,0 +1,17 @@
+{
+  "metadata": {
+    "files_processed": 3,
+    "total_rows": 12,
+    "total_revenue": 311300.0,
+    "generated_at": "2026-03-10T11:09:00"
+  },
+  "revenue_by_product": {
+    "Headphones": 6000.0,
+    "Keyboard": 7000.0,
+    "Laptop": 195000.0,
+    "Monitor": 88000.0,
+    "Mouse": 5400.0,
+    "USB Hub": 2400.0,
+    "Webcam": 7500.0
+  }
+}
